@@ -1847,7 +1847,7 @@
               <name>1|16</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">{ ESTADO SALIDA : &quot;APROBADO CON ACELERACIÓN&quot;, RESULTADO SALIDA : { Porc : &quot;80%&quot;, NUEVO VALOR : 90000.0 }, ACUMULADO : &quot;SI&quot;, ACELERADO : &quot;SI&quot;, VARIABLES SOSTENIDAS : &quot;SI&quot;, CANALES DIGITALES : &quot;SI&quot; }</rawValue>
+            <rawValue class="string">{ ESTADO SALIDA : &quot;APROBADO CON ACELERACION&quot;, RESULTADO SALIDA : { Porc : &quot;80%&quot;, NUEVO VALOR : 90000.0 }, ACUMULADO : &quot;SI&quot;, ACELERADO : &quot;SI&quot;, VARIABLES SOSTENIDAS : &quot;SI&quot;, CANALES DIGITALES : &quot;SI&quot; }</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
